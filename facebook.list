@@ -1,9 +1,11 @@
-# > Facebook
+# > Meta
+DOMAIN-SUFFIX,accountkit.com,PROXY
 DOMAIN-SUFFIX,cdninstagram.com,PROXY
-DOMAIN-SUFFIX,facebook.com,PROXY
-DOMAIN-SUFFIX,facebook.net,PROXY
+DOMAIN-SUFFIX,f8.com,PROXY
+DOMAIN-SUFFIX,facebookmail.com,PROXY
 DOMAIN-SUFFIX,fb.com,PROXY
 DOMAIN-SUFFIX,fb.me,PROXY
+DOMAIN-SUFFIX,fb.watch,PROXY
 DOMAIN-SUFFIX,fbaddins.com,PROXY
 DOMAIN-SUFFIX,fbcdn.net,PROXY
 DOMAIN-SUFFIX,fbsbx.com,PROXY
@@ -13,6 +15,8 @@ DOMAIN-SUFFIX,m.me,PROXY
 DOMAIN-SUFFIX,messenger.com,PROXY
 DOMAIN-SUFFIX,oculus.com,PROXY
 DOMAIN-SUFFIX,oculuscdn.com,PROXY
+DOMAIN-SUFFIX,readyatdawn.com,PROXY
 DOMAIN-SUFFIX,rocksdb.org,PROXY
 DOMAIN-SUFFIX,whatsapp.com,PROXY
 DOMAIN-SUFFIX,whatsapp.net,PROXY
+DOMAIN-KEYWORD,.facebook.,PROXY
